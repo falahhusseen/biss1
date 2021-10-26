@@ -2040,3 +2040,4 @@ F 00010000 00 198019B280198019 ;FEED KUWET HD (39.0°E)
                         Add cccam
 
 C: tvjoker.dynamic-dns.net 1450 TESKO KISOLEM
+C: t1.cccambird.com 19940 50813926 cccambird
